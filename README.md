@@ -1,0 +1,2 @@
+# Python to JS translator
+This is a sample demonstration of converting python to javascript using an ANTLR4 generated parser and a custom visitor. This is more of an illustration than a fully functioning library so not all the visitor functions are fully implemented.
